@@ -53,7 +53,7 @@ mvn spring-boot:run
 - [x] User can create, read, update and delete an artist
 
 # Feature in Progress
-- [] Booking / Cancellation of an event 
+[] Booking / Cancellation of an event 
 
 
 ## Author : [Chiraag Kakar](https://github.com/chiraag-kakar)
